@@ -6,7 +6,3 @@ function process () {
     document.getElementById("payableBox").value = total; 
 
 }
-
-function addToCart() {
-    
-}
