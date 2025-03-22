@@ -69,17 +69,16 @@ button{
 .total {
   background-color: aliceblue;
   text-align: center;
+  padding-bottom: 20px;
 }
 
-footer {
-    position: fixed;
+ footer {
+    position: sticky;
     left: 0;
-    bottom: 0;
-    width: 100%;
+    width: 385%;
     background-color:#bbb;
     color: black;
     text-align:center;
-    padding-bottom: 1px;
     height: 24px; 
     line-height: 0.2;
-  }
+} 

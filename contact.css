@@ -21,3 +21,62 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+  .closure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    background-color: #333;
+    color: aliceblue;
+}
+
+h2 {
+  color:aliceblue ;
+}
+
+p1 {
+  color: aliceblue;
+}
+
+.Helpline{
+  float: left;
+  width: 30%;
+  height: 280px;
+  margin: 10px;
+}
+.Complain{
+  float:left;
+  width: 33%;
+  height: 280px;
+}
+.Newsletter{
+  float: right;
+  width: 30%;
+  height: 280px;
+}
+
+header{
+  border: 16px;
+  margin: 0.1%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align:center;
+  padding-bottom: 1px;
+  height: 24px; 
+  line-height: 0.2;
+}
+
+#output {
+  width: 300px; 
+  height: 50px; 
+  font-size: 16px;
+}
